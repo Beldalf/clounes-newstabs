@@ -1,5 +1,5 @@
 function Home() {
-    return <h1> Valeu gui, valeu pela a ajuda </h1>
+    return <h1> Valeu gui, pela a ajuda negru </h1>
 }
 
 
